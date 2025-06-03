@@ -1,4 +1,3 @@
-Sitemap: https://www.tap4.ai/sitemap.xml
 
 User-agent: *
 Disallow: /
